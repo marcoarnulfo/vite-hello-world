@@ -1,4 +1,7 @@
 <script>
+export default {
+  name: 'AppTitle.vue'
+}
 </script>
 
 <template>
