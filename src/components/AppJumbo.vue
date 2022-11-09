@@ -1,6 +1,6 @@
 <script>
 export default {
-    name: 'AppJumbo.vue'
+    name: 'AppJumbo'
 }
 </script>
 

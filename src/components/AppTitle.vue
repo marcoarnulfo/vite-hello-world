@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'AppTitle.vue'
+  name: 'AppTitle'
 }
 </script>
 

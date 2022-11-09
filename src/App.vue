@@ -1,6 +1,6 @@
 <script> //setup
-import AppTitle from './components/AppTitle.vue';
-import AppJumbo from './components/AppJumbo.vue';
+import AppTitle from './components/AppTitle';
+import AppJumbo from './components/AppJumbo';
 
 export default {
   components: {
